@@ -1,0 +1,22 @@
+h2 {
+    border-bottom: 1px solid;
+    color: rgb(64, 185, 255);
+}
+
+.plato {
+    padding: 8px;
+    font-size: 18px;
+}
+
+.vegetariano {
+    color: rgb(68, 156, 79);
+}
+
+#especialidad {
+    background-color: rgb(253, 253, 184);
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}

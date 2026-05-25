@@ -1,0 +1,14 @@
+/* Selector A */
+p { background-color: yellow; }
+ 
+/* Selector B */
+.info { background-color: lightblue; }
+ 
+/* Selector C */
+p.info { background-color: lightgreen; }
+ 
+/* Selector D */
+#mensaje { background-color: salmon; }
+ 
+/* Selector E */
+div p.info { background-color: violet; }
